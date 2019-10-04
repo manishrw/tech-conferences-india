@@ -9,6 +9,7 @@ To add a conference to the list, please [contribute](#contributing)!
 | Conference | Date | Venue | Description | Scholarship |
 |------------|------|-------|-------------|-------------|
 | [Functional Conf](https://functionalconf.com/) | 13—17 Nov | ITC Welcomhotel Bengaluru, Bengaluru | Asia's Premier Functional Programming Conference | No |
+| [Rakuten Technology Conference](https://www.eventbrite.com/e/rakuten-technology-conference-tickets-75242397035?aff=ebdssbdestsearch) | 09 Nov | Rakuten India Enterprise,Bengaluru | Conference on latest technology trends and the future. | No |
 | [Open Source India](https://www.opensourceindia.in/) |  17-18 Oct |  NIMHANS Convention Centre, Bengaluru  | A 2-day conference with several workshops, primarily focusing on the trending technologies in Open Source | No |
 | [PyCon India](https://in.pycon.org/2019/) |  12-15 Oct |  Chennai Trade Center and IIT Madras Research Park  | India's premier conference on using and developing the Python programming language | No |
 | [JSFoo Bangalore](https://hasgeek.com/jsfoo/2019/) | 27-28 Sep | NIMHANS Convention Centre, Bangalore | JSFoo is in its ninth edition this year. The 2019 edition is a two-track event with talks and Birds of Feather (BOF) sessions | No |
@@ -37,7 +38,6 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Pragma IIITA](http://pragmaconf.tech/) | 19 -20 Jan | Indian Insitute of Information Technology, Allahabad | Pragma is premier student design and developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India, Pragma is a 3 day extravaganza featuring a hackathon, workshops and numerous talks. | No
 | [GopherCon](https://gopherconindia.com/) | 18-19 Jan | Hotel Park Regis, Goa | Go conference in India. Go is an open source project developed by a team at Google and many contributors for the open source community. | [Yes]( https://gopherconindia.com/scholarship/) |
 | [JSFoo Pune](https://jsfoo.in/2019-pune/) | 10 Jan | MCCIA Trade Tower, Pune | The second Pune edition of India’s premier JavaScript conference. | No |
-| [Rakuten Technology Conference](https://www.eventbrite.com/e/rakuten-technology-conference-tickets-75242397035?aff=ebdssbdestsearch) | 09 Nov | Rakuten India Enterprise,Bengaluru | Conference on latest technology trends and the future. | No |
 
 ## Past Years
 
